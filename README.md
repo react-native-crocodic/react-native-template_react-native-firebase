@@ -20,6 +20,7 @@ Buka command prompt / terminal, change directory ke direktori yang diinginkan
 - Ganti package name anda, caranya? [Bisa dilihat disini](https://stackoverflow.com/questions/37389905/change-package-name-for-android-in-react-native)
 
 #### iOS ####
+- Buka command prompt / terminal, change directory ke direktori project, lalu ```cd ios``` kemudian ```pod install```
 - Masukkan file GoogleService-Info.plist yang didapat dari console firebase anda kedalam folder dalam pertama project lewat XCode
 - Ganti package name anda
 
