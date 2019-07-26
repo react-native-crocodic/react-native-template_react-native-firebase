@@ -1,5 +1,4 @@
 # React Native Template - React-Native-Firebase #
-#### 👉👉 Satu perintah cmd / terminal untuk preview berbagai library react-native yang umum digunakan 👈👈 ####
 
 Template linked module messaging dan notification [react-native-firebase](https://github.com/invertase/react-native-firebase)
 Template ini mengadopsi react-native versi 0.60.x
