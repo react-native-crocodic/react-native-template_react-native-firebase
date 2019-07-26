@@ -1,4 +1,4 @@
-# React Native Template - React-Native-Firebase #
+# React Native Template - React Native Firebase #
 
 Template linked module messaging dan notification [react-native-firebase](https://github.com/invertase/react-native-firebase), mengadopsi react-native versi 0.60.x
 
