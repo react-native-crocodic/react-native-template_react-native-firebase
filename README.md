@@ -25,7 +25,14 @@ Buka command prompt / terminal, change directory ke direktori yang diinginkan
 
 ## Run ##
 
-Untuk run di android, connect kan device, buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm``` / run lewat XCode untuk iOS
+- Buka command prompt / terminal, change directory ke direktori project jalankan ```npm start```
+- Connect kan device dengan kabel data
+
+#### Android ####
+Buka baru jendela command prompt / terminal, change directory ke direktori project lalu jalankan ```npx react-native run-android``` pakai ```npx``` bukan ```npm```
+
+#### iOS ####
+Run lewat XCode
 
 ## Ada Error atau Pertanyaan? ##
 
