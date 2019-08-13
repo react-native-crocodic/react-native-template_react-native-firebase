@@ -5,7 +5,7 @@ Template linked module messaging dan notification [react-native-firebase](https:
 ## Instalasi ##
 
 - Buka command prompt / terminal, change directory ke direktori yang diinginkan
-- Clone project dengan perintah ```git clone https://github.com/reynova/react-native-template_react-native-firebase.git```
+- Clone project dengan perintah ```git clone https://github.com/reynaldpn/react-native-template_react-native-firebase.git```
 - Install node_modules yang dibutuhkan dengan cara change directory ke direktori project lalu jalankan ```npm i```, tunggu sampai selesai
 
 ## Konfigurasi React-Native-Firebase ##
